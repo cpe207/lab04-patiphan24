@@ -16,3 +16,6 @@ console.log(arrayStringify(c2));
 console.log(arrayStringify(c3));
 
 module.exports = arrayStringify;
+
+//รหัส นศ.: 660610771
+//ชื่อ-สกุล : ปฏิพันธ์ เลขนอก
